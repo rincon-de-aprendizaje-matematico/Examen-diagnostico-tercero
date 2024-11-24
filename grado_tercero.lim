@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>Tercero</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFD7AE</corfondo>
+        <corbanda>FFC891</corbanda>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>EXÁMEN DIAGNÓSTICO</titulo>
+        <subtitulo>GRADO TERCERO</subtitulo>
+        <logo>Logo_--fotor-20241104133318.png</logo>
+        <imaxefondo posx="-164" posy="76" trans="40">Fondo_-.png</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="Correcto.mp3" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <texto posx="143" posy="125" ancho="33" largo="487"><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="24"><i>Este examen de diagnóstico evalúa tus conocimientos actuales en matemáticas para identificar áreas de mejora. No es evaluativo, sino una herramienta para guiar tu aprendizaje y ayudarte a avanzar. Aquí pondrás a prueba tu conocimiento en operaciones básicas y comprensión de figuras geométricas. ¡Tómate tu tiempo y diviértete explorando el mundo de los números!</i><br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>30</tipo>
+              <cabeceira>Cuenta la cantidad de galletas que hay escríbela</cabeceira>
+              <imaxe posx="136" posy="66">Cantidades.png</imaxe>
+              <modo>1</modo>
+              <etiqueta posx="650" posy="106">428</etiqueta>
+              <etiqueta posx="650" posy="207">512</etiqueta>
+              <etiqueta posx="650" posy="303">174</etiqueta>
+        </paxina>
+        <paxina id="3" >
+              <tipo>33</tipo>
+              <cabeceira>Resuelve</cabeceira>
+              <modo>0</modo>
+              <forma>0</forma>
+              <numero>3</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="4" >
+              <tipo>33</tipo>
+              <cabeceira>Resuelve</cabeceira>
+              <modo>0</modo>
+              <forma>1</forma>
+              <numero>2</numero>
+              <numero>2</numero>
+        </paxina>
+        <paxina id="5" >
+              <tipo>30</tipo>
+              <cabeceira>Resuelve las siguientes situaciones</cabeceira>
+              <imaxe posx="159" posy="0">problemas_con_suma_y_resta.png</imaxe>
+              <modo>1</modo>
+              <etiqueta posx="382" posy="175">60</etiqueta>
+              <etiqueta posx="348" posy="119">+</etiqueta>
+              <etiqueta posx="432" posy="307">-</etiqueta>
+              <etiqueta posx="483" posy="354">38</etiqueta>
+        </paxina>
+        <paxina id="6" >
+              <tipo>46</tipo>
+              <cabeceira>Une cada multiplicación con su respuesta</cabeceira>
+              <etiqueta texto="10"  posy="1">5x2</etiqueta>
+              <etiqueta texto="18"  posy="2">2x9</etiqueta>
+              <etiqueta texto="24"  posy="3">4x6</etiqueta>
+              <etiqueta texto="21"  posy="4">3x7</etiqueta>
+              <etiqueta texto="36"  posy="5">9x4</etiqueta>
+        </paxina>
+        <paxina id="7" >
+              <tipo>7</tipo>
+              <cabeceira>Clasifica las figuras según sus características</cabeceira>
+              <caixa1>Figuras geométricas</caixa1>
+              <caixa2>Cuerpos geométricos</caixa2>
+              <mini caixa="1">circulo.png</mini>
+              <mini caixa="2">Esfera.png</mini>
+              <mini caixa="1">cuadrado.png</mini>
+              <mini caixa="2">Cubo.png</mini>
+              <mini caixa="1">triangulo.png</mini>
+              <mini caixa="2">piramide.png</mini>
+              <cfondo>FFD7AE</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>1</tipo>
+              <cabeceira>Resuelve</cabeceira>
+              <imaxe>Patrones.png</imaxe>
+              <texto>Regina ordena estos objetos siguiendo un patrón.</texto>
+              <resp texto="" valor="0">Moneda blanca</resp>
+              <resp texto="" valor="1">Moneda Negra</resp>
+              <resp texto="" valor="0">Cubo</resp>
+        </paxina>
+        <paxina id="9" >
+              <tipo>30</tipo>
+              <cabeceira>Un equipo de básquet anota canastas de 1, 2 o 3 puntos según el tipo de lanzamiento.</cabeceira>
+              <imaxe posx="137" posy="0">Estad_istica.png</imaxe>
+              <modo>1</modo>
+              <etiqueta posx="413" posy="259">7</etiqueta>
+              <etiqueta posx="413" posy="285">6</etiqueta>
+              <etiqueta posx="413" posy="310">5</etiqueta>
+              <etiqueta posx="413" posy="335">18</etiqueta>
+        </paxina>
+        <paxina id="10" >
+              <tipo>28</tipo>
+              <cabeceira>¡Has terminado! Ahora puedes volver a la página principal a seguir aprendiendo</cabeceira>
+              <boton texto="Rincón de aprendizaje matemático">https://sites.google.com/view/rincondeaprendizajematematico</boton>
+        </paxina>
+    </libro>
+</lim>
